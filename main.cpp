@@ -8,4 +8,8 @@ se agregan manzanas y peras
 se agregan dinosaurios
 }
 se agrega mate
+se agrega azucar
+se agrega pan
+
+
 
