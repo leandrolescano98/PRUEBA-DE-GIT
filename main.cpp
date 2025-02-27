@@ -7,4 +7,5 @@ int main (int argc, char *argv[]) {
 se agregan manzanas y peras
 se agregan dinosaurios
 }
+se agrega mate
 
